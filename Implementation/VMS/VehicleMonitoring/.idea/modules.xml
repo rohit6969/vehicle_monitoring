@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarBooking.iml" filepath="$PROJECT_DIR$/CarBooking.iml" />
+      <module fileurl="file://F:\Sem.4\Android Projects\CarBooking\CarRental.iml" filepath="F:\Sem.4\Android Projects\CarBooking\CarRental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\Sem.4\Android Projects\CarBooking\app\app.iml" filepath="F:\Sem.4\Android Projects\CarBooking\app\app.iml" />
+    </modules>
+  </component>
+</project>
